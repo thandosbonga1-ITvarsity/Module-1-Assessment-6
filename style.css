@@ -1,0 +1,48 @@
+.gallery img{
+    width: 100%;
+}
+
+#menu{
+    width:100%;
+    height:40px;
+    background-color: rgb(161, 138, 6);
+    padding-top: 12px;
+}
+
+#menu a{
+    color:#ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration:none;
+    font-weight: 800px;
+    font-style: oblique;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+     color: #a30a56;
+}
+table{
+    border-color: rgb(255, 200, 127);
+}
+
+h4{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: initial;
+    color: rebeccapurple;
+}
+
+h2{
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: initial;
+    color: mediumvioletred;
+}
+
+p{
+    font-style: unset;
+    font-family: sans-serif;
+    color: navy;
+}
